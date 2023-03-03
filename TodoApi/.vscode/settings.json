@@ -1,0 +1,5 @@
+{
+    "azureAutomation.directory.basePath": "c:\\Users\\juosorio",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e10fbd86-71d3-4318-b128-88b2a6b598d7/AppServices/subscriptions/e10fbd86-71d3-4318-b128-88b2a6b598d7/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/pilot-activate-demo-web-api",
+    "appService.deploySubpath": "bin\\Publish"
+}
